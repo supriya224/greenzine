@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greenzine/static/css/main.b391327a.css",
+    "main.js": "/greenzine/static/js/main.3b086945.js",
+    "index.html": "/greenzine/index.html",
+    "main.b391327a.css.map": "/greenzine/static/css/main.b391327a.css.map",
+    "main.3b086945.js.map": "/greenzine/static/js/main.3b086945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b391327a.css",
+    "static/js/main.3b086945.js"
+  ]
+}
